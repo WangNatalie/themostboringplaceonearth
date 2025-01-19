@@ -42,7 +42,7 @@ export default function Intro() {
     padding: '10px 20px',
     fontSize: '1rem',
     fontFamily: "'IBM Plex Serif', serif",
-    backgroundColor: 'green',
+    backgroundColor: '#ff6666',
     color: 'white',
     border: 'none',
     borderRadius: '5px',
